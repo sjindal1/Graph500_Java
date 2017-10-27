@@ -1,0 +1,5 @@
+Graph500 Java Implementation and Performance Evaluation.
+
+The project provides a Java implementation of the Graph500 algorithm. The folder graph500 has the Java implementation and the class Graph500 can be used to run the algorithm with a parameter that provides the scaling factor. If not specified the program uses a default scale of 14. 
+
+The PPT provides the performance evaluation of the C and the Java implementaions of the Graph500 algorithm. The C implementation can be found on https://github.com/graph500/graph500. The pyhton folder has the Scripts to plot the performance character obtained from the perf commands. 
