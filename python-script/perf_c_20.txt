@@ -1,0 +1,1124 @@
+ graph500_refere 31887 103473.892256:          1               page-faults:  ffffffff82258bc5 __clear_user ([kernel.kallsyms])
+ graph500_refere 31887 103473.897405:          1               page-faults:  ffffffff82258bc5 __clear_user ([kernel.kallsyms])
+ graph500_refere 31887 103473.897419:          1               page-faults:  ffffffff82256f21 copy_user_generic_string ([kernel.kallsyms])
+ graph500_refere 31887 103473.897437:          1               page-faults:      7f27de51ac30 _start (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 103473.897441:          4               page-faults:      7f27de51b9d6 _dl_start (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 103473.897460:         11               page-faults:      7f27de51c891 dl_main (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [001] 103473.897474:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00002000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103473.942717:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00021eab, prot: 0x00000001, flags: 0x00000002, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103473.942760:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x003080f8, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103473.942775:   syscalls:sys_enter_mmap: addr: 0x7f27de518000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00107000
+ graph500_refere 31887 103473.942783:        209               page-faults:      7f27de537cda memset (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [001] 103473.985367:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002d5710, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103473.985391:   syscalls:sys_enter_mmap: addr: 0x7f27de1ed000, len: 0x00011000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x000b2000
+ graph500_refere 31887 [001] 103473.994099:   syscalls:sys_enter_mmap: addr: 0x7f27de1fe000, len: 0x00012710, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103473.994944:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103473.994960:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0021c428, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103473.994985:   syscalls:sys_enter_mmap: addr: 0x7f27ddf35000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00017000
+ graph500_refere 31887 [001] 103473.995009:   syscalls:sys_enter_mmap: addr: 0x7f27ddf37000, len: 0x00003428, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103473.995055:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x003c99a0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103473.995071:   syscalls:sys_enter_mmap: addr: 0x7f27ddd14000, len: 0x00006000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x001c0000
+ graph500_refere 31887 [001] 103473.995080:   syscalls:sys_enter_mmap: addr: 0x7f27ddd1a000, len: 0x000039a0, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.010323:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0020e3c0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.010349:   syscalls:sys_enter_mmap: addr: 0x7f27dd952000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x0000d000
+ graph500_refere 31887 [001] 103474.021650:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.021677:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00279260, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.021702:   syscalls:sys_enter_mmap: addr: 0x7f27dd73f000, len: 0x00004000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00074000
+ graph500_refere 31887 [001] 103474.028036:   syscalls:sys_enter_mmap: addr: 0x7f27dd743000, len: 0x00001260, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.030290:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0029cee8, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.030312:   syscalls:sys_enter_mmap: addr: 0x7f27dd4be000, len: 0x00008000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00090000
+ graph500_refere 31887 [001] 103474.038034:   syscalls:sys_enter_mmap: addr: 0x7f27dd4c6000, len: 0x00004ee8, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.038797:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002030f0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.038824:   syscalls:sys_enter_mmap: addr: 0x7f27dd22c000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00002000
+ graph500_refere 31887 [001] 103474.048081:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.048097:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00239650, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.048116:   syscalls:sys_enter_mmap: addr: 0x7f27dd028000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00038000
+ graph500_refere 31887 [001] 103474.050476:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00207bc0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.050508:   syscalls:sys_enter_mmap: addr: 0x7f27dcdee000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00006000
+ graph500_refere 31887 [001] 103474.070211:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00202108, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.070244:   syscalls:sys_enter_mmap: addr: 0x7f27dcbe6000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00001000
+ graph500_refere 31887 [001] 103474.088576:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.088593:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0020a7a0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.088616:   syscalls:sys_enter_mmap: addr: 0x7f27dc9e3000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00009000
+ graph500_refere 31887 [001] 103474.092122:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002091b0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000004, off: 0x00000000
+ graph500_refere 31887 [001] 103474.092151:   syscalls:sys_enter_mmap: addr: 0x7f27dc7d8000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000004, off: 0x00008000
+ graph500_refere 31887 [001] 103474.092553:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.093230:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.093245:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.093254:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.094118: syscalls:sys_enter_munmap: addr: 0x7f27de71b000, len: 0x00021eab
+ graph500_refere 31887 103474.155253:        143               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 [001] 103474.156884:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00401000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.156898: syscalls:sys_enter_munmap: addr: 0x7f27dc1cf000, len: 0x00401000
+ graph500_refere 31887 [001] 103474.156917:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00001000, prot: 0x00000001, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.156921: syscalls:sys_enter_munmap: addr: 0x7f27de73c000, len: 0x00001000
+ graph500_refere 31887 [001] 103474.169550:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203228, prot: 0x00000005, flags: 0x00000802, fd: 0x00000007, off: 0x00000000
+ graph500_refere 31887 [001] 103474.169584:   syscalls:sys_enter_mmap: addr: 0x7f27dc5ce000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000007, off: 0x00002000
+ graph500_refere 31887 [001] 103474.174073:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203278, prot: 0x00000005, flags: 0x00000802, fd: 0x00000007, off: 0x00000000
+ graph500_refere 31887 [001] 103474.174103:   syscalls:sys_enter_mmap: addr: 0x7f27dc3ca000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000007, off: 0x00002000
+ graph500_refere 31887 [001] 103474.174700:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00202208, prot: 0x00000005, flags: 0x00000802, fd: 0x00000007, off: 0x00000000
+ graph500_refere 31887 [001] 103474.174726:   syscalls:sys_enter_mmap: addr: 0x7f27dc1c6000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000007, off: 0x00001000
+ graph500_refere 31887 [001] 103474.175007: syscalls:sys_enter_munmap: addr: 0x7f27dc3cc000, len: 0x00203228
+ graph500_refere 31887 [001] 103474.175020: syscalls:sys_enter_munmap: addr: 0x7f27dbfc5000, len: 0x00202208
+ graph500_refere 31887 [001] 103474.192848:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002011b0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.192871:   syscalls:sys_enter_mmap: addr: 0x7f27dc5ce000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.214330:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021a8, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.214362:   syscalls:sys_enter_mmap: addr: 0x7f27dc1c6000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00001000
+ graph500_refere 31887 [001] 103474.216700:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00202228, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.216724:   syscalls:sys_enter_mmap: addr: 0x7f27dbfc3000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00001000
+ graph500_refere 31887 [001] 103474.217118:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00202210, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.217140:   syscalls:sys_enter_mmap: addr: 0x7f27dbdc0000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00001000
+ graph500_refere 31887 [001] 103474.232195:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002067d0, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.232220:   syscalls:sys_enter_mmap: addr: 0x7f27dbbbd000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00005000
+ graph500_refere 31887 [001] 103474.235322:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00202208, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235349:   syscalls:sys_enter_mmap: addr: 0x7f27db9b6000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00001000
+ graph500_refere 31887 [001] 103474.235516: syscalls:sys_enter_munmap: addr: 0x7f27dbfc5000, len: 0x002021a8
+ graph500_refere 31887 [001] 103474.235533: syscalls:sys_enter_munmap: addr: 0x7f27dbdc2000, len: 0x00202228
+ graph500_refere 31887 [001] 103474.235542: syscalls:sys_enter_munmap: addr: 0x7f27db9b8000, len: 0x002067d0
+ graph500_refere 31887 [001] 103474.235551: syscalls:sys_enter_munmap: addr: 0x7f27db7b5000, len: 0x00202208
+ graph500_refere 31887 [001] 103474.235645:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00021eab, prot: 0x00000001, flags: 0x00000002, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235672:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00208460, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235686:   syscalls:sys_enter_mmap: addr: 0x7f27dc1c6000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00007000
+ graph500_refere 31887 [001] 103474.235715:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00218a58, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235726:   syscalls:sys_enter_mmap: addr: 0x7f27dbbbb000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x00015000
+ graph500_refere 31887 [001] 103474.235735:   syscalls:sys_enter_mmap: addr: 0x7f27dbbbd000, len: 0x00001a58, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235774: syscalls:sys_enter_munmap: addr: 0x7f27de71b000, len: 0x00021eab
+ graph500_refere 31887 [001] 103474.235792:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00021eab, prot: 0x00000001, flags: 0x00000002, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235811:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0020b588, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235822:   syscalls:sys_enter_mmap: addr: 0x7f27db9a4000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x0000a000
+ graph500_refere 31887 [001] 103474.235850:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00211718, prot: 0x00000005, flags: 0x00000802, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235862:   syscalls:sys_enter_mmap: addr: 0x7f27db792000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x00000008, off: 0x0000a000
+ graph500_refere 31887 [001] 103474.235871:   syscalls:sys_enter_mmap: addr: 0x7f27db794000, len: 0x00005718, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235906: syscalls:sys_enter_munmap: addr: 0x7f27de71b000, len: 0x00021eab
+ graph500_refere 31887 [001] 103474.235931:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00000911, prot: 0x00000001, flags: 0x00000001, fd: 0x00000008, off: 0x00000000
+ graph500_refere 31887 [001] 103474.235940: syscalls:sys_enter_munmap: addr: 0x7f27de73c000, len: 0x00000911
+ graph500_refere 31887 [001] 103474.252241:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203208, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.252283:   syscalls:sys_enter_mmap: addr: 0x7f27db586000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00002000
+ graph500_refere 31887 [001] 103474.252721:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021c8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.252747:   syscalls:sys_enter_mmap: addr: 0x7f27db382000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 103474.252779:        128               page-faults:      7f27de525a60 _dl_setup_hash (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [001] 103474.253070:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203208, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.253094:   syscalls:sys_enter_mmap: addr: 0x7f27db17f000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00002000
+ graph500_refere 31887 [001] 103474.253482:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00204228, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.253506:   syscalls:sys_enter_mmap: addr: 0x7f27daf7b000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00003000
+ graph500_refere 31887 [001] 103474.253993:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021c8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.254017:   syscalls:sys_enter_mmap: addr: 0x7f27dad76000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 [001] 103474.254318:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021c8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.254342:   syscalls:sys_enter_mmap: addr: 0x7f27dab73000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 [001] 103474.254680:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203208, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.254705:   syscalls:sys_enter_mmap: addr: 0x7f27da970000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00002000
+ graph500_refere 31887 [001] 103474.261398:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00204228, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.261423:   syscalls:sys_enter_mmap: addr: 0x7f27da76c000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00003000
+ graph500_refere 31887 [001] 103474.261844: syscalls:sys_enter_munmap: addr: 0x7f27db384000, len: 0x00203208
+ graph500_refere 31887 [001] 103474.261864: syscalls:sys_enter_munmap: addr: 0x7f27daf7d000, len: 0x00203208
+ graph500_refere 31887 [001] 103474.261873: syscalls:sys_enter_munmap: addr: 0x7f27dad78000, len: 0x00204228
+ graph500_refere 31887 [001] 103474.261882: syscalls:sys_enter_munmap: addr: 0x7f27dab75000, len: 0x002021c8
+ graph500_refere 31887 [001] 103474.261890: syscalls:sys_enter_munmap: addr: 0x7f27da972000, len: 0x002021c8
+ graph500_refere 31887 [001] 103474.261898: syscalls:sys_enter_munmap: addr: 0x7f27da76e000, len: 0x00203208
+ graph500_refere 31887 [001] 103474.261906: syscalls:sys_enter_munmap: addr: 0x7f27da569000, len: 0x00204228
+ graph500_refere 31887 [001] 103474.262142:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021c0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.262169:   syscalls:sys_enter_mmap: addr: 0x7f27db586000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 [001] 103474.262481:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00202200, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.262505:   syscalls:sys_enter_mmap: addr: 0x7f27db17f000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 [001] 103474.262800:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203200, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.262821:   syscalls:sys_enter_mmap: addr: 0x7f27daf7c000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00002000
+ graph500_refere 31887 [001] 103474.263191:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00204220, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.263215:   syscalls:sys_enter_mmap: addr: 0x7f27dad78000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00003000
+ graph500_refere 31887 [001] 103474.278572:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00213978, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.278598:   syscalls:sys_enter_mmap: addr: 0x7f27dab73000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00012000
+ graph500_refere 31887 [001] 103474.279943:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203368, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.279965:   syscalls:sys_enter_mmap: addr: 0x7f27da95f000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00002000
+ graph500_refere 31887 [001] 103474.280083: syscalls:sys_enter_munmap: addr: 0x7f27db385000, len: 0x002021c0
+ graph500_refere 31887 [001] 103474.280107: syscalls:sys_enter_munmap: addr: 0x7f27dad7a000, len: 0x00203200
+ graph500_refere 31887 [001] 103474.280116: syscalls:sys_enter_munmap: addr: 0x7f27dab75000, len: 0x00204220
+ graph500_refere 31887 [001] 103474.280401:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021f8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.280424:   syscalls:sys_enter_mmap: addr: 0x7f27db586000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 [001] 103474.280785:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00204318, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.280804:   syscalls:sys_enter_mmap: addr: 0x7f27daf7c000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00003000
+ graph500_refere 31887 [001] 103474.281469:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00204318, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.281492:   syscalls:sys_enter_mmap: addr: 0x7f27da75b000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00003000
+ graph500_refere 31887 [001] 103474.283316:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203310, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.283342:   syscalls:sys_enter_mmap: addr: 0x7f27dad77000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00002000
+ graph500_refere 31887 [001] 103474.283511: syscalls:sys_enter_munmap: addr: 0x7f27dad79000, len: 0x00204318
+ graph500_refere 31887 [001] 103474.283526: syscalls:sys_enter_munmap: addr: 0x7f27da558000, len: 0x00204318
+ graph500_refere 31887 [001] 103474.283535: syscalls:sys_enter_munmap: addr: 0x7f27dab75000, len: 0x00203310
+ graph500_refere 31887 [001] 103474.283741:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002022f0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.283763:   syscalls:sys_enter_mmap: addr: 0x7f27daf7c000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 [001] 103474.284025:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002032e8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.284051:   syscalls:sys_enter_mmap: addr: 0x7f27dad79000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00002000
+ graph500_refere 31887 [001] 103474.284402:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021d8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.284426:   syscalls:sys_enter_mmap: addr: 0x7f27da75b000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00001000
+ graph500_refere 31887 [001] 103474.284577:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00801000, prot: 0x00000003, flags: 0x00020022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [001] 103474.284847:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00000911, prot: 0x00000001, flags: 0x00000001, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31888 [003] 103474.284849:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x08000000, prot: 0x00000000, flags: 0x00004022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31888 [003] 103474.284862: syscalls:sys_enter_munmap: addr: 0x7f27d1d59000, len: 0x022a7000
+ graph500_refere 31887 [001] 103474.284880: syscalls:sys_enter_munmap: addr: 0x7f27de73c000, len: 0x00000911
+ graph500_refere 31888 [003] 103474.284886: syscalls:sys_enter_munmap: addr: 0x7f27d8000000, len: 0x01d59000
+ graph500_refere 31888 103474.284896:          1               page-faults:      7f27dd9d1390 new_heap (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 [001] 103474.300238:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002062e0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.300258:   syscalls:sys_enter_mmap: addr: 0x7f27d9d57000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00005000
+ graph500_refere 31887 [001] 103474.300737:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0020a4a0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.300756:   syscalls:sys_enter_mmap: addr: 0x7f27d9b50000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00009000
+ graph500_refere 31887 [001] 103474.301324:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00206300, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000b, off: 0x00000000
+ graph500_refere 31887 [001] 103474.301344:   syscalls:sys_enter_mmap: addr: 0x7f27d9945000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000b, off: 0x00005000
+ graph500_refere 31887 [001] 103474.301942: syscalls:sys_enter_munmap: addr: 0x7f27d9b52000, len: 0x002062e0
+ graph500_refere 31887 [001] 103474.301977: syscalls:sys_enter_munmap: addr: 0x7f27d9947000, len: 0x0020a4a0
+ graph500_refere 31887 [001] 103474.301989: syscalls:sys_enter_munmap: addr: 0x7f27d9740000, len: 0x00206300
+ graph500_refere 31887 103474.302033:        114               page-faults:      7f27dce010e0 [unknown] (/usr/lib/x86_64-linux-gnu/libhwloc.so.5.6.8)
+ graph500_refere 31887 103474.328370:          1               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.328445:          1               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.331700:          2               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.362643:          2               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.363065:          2               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.363091:          2               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.363125:          2               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.388312:          9               page-faults:      7f27ddf865c0 ompi_datatype_init (/usr/lib/openmpi/lib/libmpi.so.12.0.2)
+ graph500_refere 31887 103474.412082:          9               page-faults:      7f27ddf77b89 ompi_op_init (/usr/lib/openmpi/lib/libmpi.so.12.0.2)
+ graph500_refere 31887 [003] 103474.422624:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021c0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.422664:   syscalls:sys_enter_mmap: addr: 0x7f27d9d57000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00001000
+ graph500_refere 31887 [003] 103474.423016:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00202180, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.423043:   syscalls:sys_enter_mmap: addr: 0x7f27d9b54000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00001000
+ graph500_refere 31887 103474.423071:          9               page-faults:      7f27de520c42 _dl_map_object_from_fd (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.423464:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00204208, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.423489:   syscalls:sys_enter_mmap: addr: 0x7f27d9951000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00003000
+ graph500_refere 31887 [003] 103474.424122:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002021c0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.424146:   syscalls:sys_enter_mmap: addr: 0x7f27d974c000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00001000
+ graph500_refere 31887 103474.424161:          9               page-faults:      7f27de537c28 memset (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.424209:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00021eab, prot: 0x00000001, flags: 0x00000002, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.424535:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002030e8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.424558:   syscalls:sys_enter_mmap: addr: 0x7f27d9549000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00002000
+ graph500_refere 31887 103474.424582:          9               page-faults:      7f27de520c42 _dl_map_object_from_fd (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.424658: syscalls:sys_enter_munmap: addr: 0x7f27de71b000, len: 0x00021eab
+ graph500_refere 31887 [003] 103474.424904:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203250, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.424927:   syscalls:sys_enter_mmap: addr: 0x7f27d9345000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00002000
+ graph500_refere 31887 103474.425088:          9               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 [003] 103474.425318:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00204268, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.425342:   syscalls:sys_enter_mmap: addr: 0x7f27d9141000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00003000
+ graph500_refere 31887 103474.425646:          9               page-faults:      7f27dd9fae60 __strncpy_sse2_unaligned (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 [003] 103474.433555:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0022dd48, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.433581:   syscalls:sys_enter_mmap: addr: 0x7f27d8f3b000, len: 0x00003000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x0002b000
+ graph500_refere 31887 103474.435470:          9               page-faults:      7f27de520b88 _dl_map_object_from_fd (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.436109:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00021eab, prot: 0x00000001, flags: 0x00000002, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.436438:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002041f0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.436462:   syscalls:sys_enter_mmap: addr: 0x7f27d8d0e000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00003000
+ graph500_refere 31887 103474.436674:          9               page-faults:      7f27de520c42 _dl_map_object_from_fd (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.436861: syscalls:sys_enter_munmap: addr: 0x7f27de71b000, len: 0x00021eab
+ graph500_refere 31887 [003] 103474.437146:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203748, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.437169:   syscalls:sys_enter_mmap: addr: 0x7f27d8b09000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00002000
+ graph500_refere 31887 103474.437200:          9               page-faults:      7f27de525a60 _dl_setup_hash (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.437560:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002079e8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.437582:   syscalls:sys_enter_mmap: addr: 0x7f27d8904000, len: 0x00003000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00005000
+ graph500_refere 31887 [003] 103474.438400:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00206b68, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.438419:   syscalls:sys_enter_mmap: addr: 0x7f27d86fd000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00005000
+ graph500_refere 31887 103474.438431:          9               page-faults:      7f27de537cda memset (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.438909:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0028cd08, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.438929:   syscalls:sys_enter_mmap: addr: 0x7f27d8476000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x0000b000
+ graph500_refere 31887 [003] 103474.440228:   syscalls:sys_enter_mmap: addr: 0x7f27d8478000, len: 0x0007fd08, prot: 0x00000003, flags: 0x00000032, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 103474.440266:          9               page-faults:      7f27de535903 strchr (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 103474.440691:          9               page-faults:      7f27dd9d6786 _int_malloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.440822:          9               page-faults:      7f27dd9fae5c __strncpy_sse2_unaligned (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 [003] 103474.441050:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00207468, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.441074:   syscalls:sys_enter_mmap: addr: 0x7f27d8269000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00006000
+ graph500_refere 31887 103474.441392:         10               page-faults:      7f27de5265e0 _dl_relocate_object (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.454446:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00218dc8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.454469:   syscalls:sys_enter_mmap: addr: 0x7f27d3ffe000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00017000
+ graph500_refere 31887 [003] 103474.455239:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0021fdc8, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.455267:   syscalls:sys_enter_mmap: addr: 0x7f27d3de5000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x0001e000
+ graph500_refere 31887 103474.455689:         10               page-faults:      7f27de525a60 _dl_setup_hash (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.470523:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00207608, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.470557:   syscalls:sys_enter_mmap: addr: 0x7f27d3bc5000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00006000
+ graph500_refere 31887 103474.470573:         10               page-faults:      7f27de537c28 memset (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.470921: syscalls:sys_enter_munmap: addr: 0x7f27d8063000, len: 0x00207468
+ graph500_refere 31887 103474.470968:         10               page-faults:      7f27dd9fae60 __strncpy_sse2_unaligned (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.470984:         10               page-faults:      7f27dd9fae6a __strncpy_sse2_unaligned (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 [003] 103474.471204:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0020e110, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.471228:   syscalls:sys_enter_mmap: addr: 0x7f27d8269000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x0000d000
+ graph500_refere 31887 [003] 103474.471870:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00206160, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.471898:   syscalls:sys_enter_mmap: addr: 0x7f27d39bd000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00005000
+ graph500_refere 31887 103474.472120:         28               page-faults:      7f27de5265e0 _dl_relocate_object (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.472438:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002040d0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.472464:   syscalls:sys_enter_mmap: addr: 0x7f27d37b6000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00003000
+ graph500_refere 31887 [003] 103474.472936:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00206288, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.472963:   syscalls:sys_enter_mmap: addr: 0x7f27d35b1000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00005000
+ graph500_refere 31887 [003] 103474.488487:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00231f60, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.488510:   syscalls:sys_enter_mmap: addr: 0x7f27d33aa000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00030000
+ graph500_refere 31887 [003] 103474.503488:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0021fa00, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.503517:   syscalls:sys_enter_mmap: addr: 0x7f27d3178000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x0001e000
+ graph500_refere 31887 [003] 103474.508663:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00219460, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.508688:   syscalls:sys_enter_mmap: addr: 0x7f27d2f58000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00018000
+ graph500_refere 31887 103474.509680:         27               page-faults:      7f27de525a60 _dl_setup_hash (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.510113:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x002020b0, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.510138:   syscalls:sys_enter_mmap: addr: 0x7f27d2d3e000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00001000
+ graph500_refere 31887 [003] 103474.510565: syscalls:sys_enter_munmap: addr: 0x7f27d317a000, len: 0x00231f60
+ graph500_refere 31887 [003] 103474.510843:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00206458, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.510884:   syscalls:sys_enter_mmap: addr: 0x7f27d33a9000, len: 0x00003000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00004000
+ graph500_refere 31887 [003] 103474.511546:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00215d28, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000c, off: 0x00000000
+ graph500_refere 31887 [003] 103474.511570:   syscalls:sys_enter_mmap: addr: 0x7f27d2b3b000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000c, off: 0x00014000
+ graph500_refere 31887 103474.512077:         25               page-faults:      7f27de535903 strchr (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.512331: syscalls:sys_enter_munmap: addr: 0x7f27d8d10000, len: 0x0022dd48
+ graph500_refere 31887 [003] 103474.512352: syscalls:sys_enter_munmap: addr: 0x7f27d8b0b000, len: 0x002041f0
+ graph500_refere 31887 [003] 103474.512376: syscalls:sys_enter_munmap: addr: 0x7f27d86ff000, len: 0x002079e8
+ graph500_refere 31887 [003] 103474.512395: syscalls:sys_enter_munmap: addr: 0x7f27d84f8000, len: 0x00206b68
+ graph500_refere 31887 [003] 103474.512546: syscalls:sys_enter_munmap: addr: 0x7f27d3bc7000, len: 0x0021fdc8
+ graph500_refere 31887 [003] 103474.512649: syscalls:sys_enter_munmap: addr: 0x7f27d33ac000, len: 0x00206288
+ graph500_refere 31887 103474.512698:         25               page-faults:      7f27ddf6e4df ompi_mpi_errcode_init (/usr/lib/openmpi/lib/libmpi.so.12.0.2)
+ graph500_refere 31887 [003] 103474.512769: syscalls:sys_enter_munmap: addr: 0x7f27d39bf000, len: 0x00207608
+ graph500_refere 31887 [003] 103474.513090:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00203210, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000d, off: 0x00000000
+ graph500_refere 31887 [003] 103474.513117:   syscalls:sys_enter_mmap: addr: 0x7f27d8f3c000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000d, off: 0x00002000
+ graph500_refere 31887 [003] 103474.513479:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00206380, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000d, off: 0x00000000
+ graph500_refere 31887 [003] 103474.513506:   syscalls:sys_enter_mmap: addr: 0x7f27d8d38000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000d, off: 0x00005000
+ graph500_refere 31887 103474.513715:         23               page-faults:      7f27de525a60 _dl_setup_hash (/lib/x86_64-linux-gnu/ld-2.23.so)
+ graph500_refere 31887 [003] 103474.513955:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00802000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 103474.515542:          1               page-faults:      7f27d3ded59f mca_pml_ob1_irecv_init (/usr/lib/openmpi/lib/openmpi/mca_pml_ob1.so)
+ graph500_refere 31887 103474.515586:          1               page-faults:      7f27dd9d53d2 sysmalloc (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.515596:          1               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.515599:          2               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.515606:          8               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103474.515630:         73               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 [000] 103474.516848:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00201170, prot: 0x00000005, flags: 0x00000802, fd: 0x0000000d, off: 0x00000000
+ graph500_refere 31887 [000] 103474.516882:   syscalls:sys_enter_mmap: addr: 0x7f27d8905000, len: 0x00002000, prot: 0x00000003, flags: 0x00000812, fd: 0x0000000d, off: 0x00000000
+ graph500_refere 31887 [000] 103474.517036:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x06001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [000] 103474.517052:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0c001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 103474.525843:        894               page-faults:            4078de mrg_apply_transition (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 [000] 103486.495989: syscalls:sys_enter_munmap: addr: 0x7f27cc124000, len: 0x06001000
+ graph500_refere 31887 [000] 103486.496072:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x02001000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 [000] 103487.467015:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x0bffe000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 103487.486680:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.486727:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.486767:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.486799:         22               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.486850:         37               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.486921:         68               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.487050:        102               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.487231:        134               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.487462:        150               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.487725:        157               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.488006:        159               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.488292:        159               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.488581:        158               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.488868:        157               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.489153:        156               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.489444:        155               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.489736:        154               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.490018:        153               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.490323:        152               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.490598:        148               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.490868:        146               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.491137:        146               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.491410:        146               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.491688:        146               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.491966:        146               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.492239:        145               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.492581:        144               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.492849:        144               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.493125:        140               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.493388:        140               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.493658:        140               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.493916:        140               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.494206:        140               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.494458:        140               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.494721:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.494985:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.495248:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.495511:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.495776:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.496041:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.496310:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.496578:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.496848:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.497114:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.497386:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.497650:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.497916:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.498279:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.498556:        139               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.498835:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.499099:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.499369:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.499639:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.499909:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.500185:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.500456:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.500735:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.501012:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.501299:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.501591:        135               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.501879:        134               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.502188:        133               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.502467:        132               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.502754:        130               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.503032:        130               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.503321:        129               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.503590:        129               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.503858:        128               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.504136:        128               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.504418:        128               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.504702:        128               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.504976:        127               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.505240:        126               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.505528:        126               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.505828:        126               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.506129:        125               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.506405:        124               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.506692:        123               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.506980:        123               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.507254:        122               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.507535:        121               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.507812:        121               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.508107:        121               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.508402:        121               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.508699:        120               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.508989:        119               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.509355:        118               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.509654:        117               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.509956:        114               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.510307:        112               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.510568:        112               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.510858:        109               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.511128:        109               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.511399:        108               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.511681:        108               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.511947:        108               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.512236:        108               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.512540:        108               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.512845:        107               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.513160:        106               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.513445:        105               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.513739:        104               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.514019:        104               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.514331:        103               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.514635:        103               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.514976:        102               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.515286:        101               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.515599:         99               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.515920:         98               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.516220:         97               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.516564:         96               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.516860:         95               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.517177:         93               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.517460:         92               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.517767:         91               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.518113:         91               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.518448:         90               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.518780:         88               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.519115:         86               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.519418:         85               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.519724:         84               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.520047:         83               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.520380:         82               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.520704:         81               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.521045:         80               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.521411:         79               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.521792:         78               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.522167:         74               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.522476:         74               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.522786:         72               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.523108:         72               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.523471:         72               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.523835:         71               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.524205:         70               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.524555:         69               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.524932:         67               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.525266:         66               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.525645:         64               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.526115:         63               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.526585:         62               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.527047:         60               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.527459:         58               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.527822:         56               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.528333:         55               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.528760:         54               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.529227:         52               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.529663:         51               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.530054:         49               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.530491:         48               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.530990:         46               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.531544:         45               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.532006:         43               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.532498:         41               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.532960:         40               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.533457:         39               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.533995:         38               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.534543:         36               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.535081:         36               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.535613:         35               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.536390:         34               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.537088:         33               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.537639:         31               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.538241:         30               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.538927:         28               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.539631:         27               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.540544:         26               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.541434:         25               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.542337:         24               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.543198:         22               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.543953:         21               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.545155:         20               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.546166:         19               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.546963:         19               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.547720:         18               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.548897:         18               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.549845:         18               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.550950:         17               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.551762:         17               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.553389:         17               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.554502:         17               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.555728:         16               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.556880:         16               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.558300:         16               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.560876:         16               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.562156:         16               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.563497:         15               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.565221:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.566996:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.568826:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.570385:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.572713:         15               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.574415:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.575854:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.578256:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.579906:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.581748:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.583683:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.585766:         15               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.588949:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.591329:         15               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.592737:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.594508:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.598240:         15               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.600331:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.603881:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.606461:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.608416:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.611143:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.614555:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.617179:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.619536:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.621917:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.624605:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.626632:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.629550:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.632505:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.635880:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.638296:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.640799:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.642880:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.645943:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.648097:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.651427:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.654039:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.656153:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.658631:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.662471:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.664686:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.667610:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.669200:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.672815:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.675760:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.677907:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.681107:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.683605:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.686347:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.689118:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.690834:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.694450:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.697204:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.701819:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.703906:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.706904:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.709884:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.713406:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.715695:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.719459:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.723965:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.727989:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.729923:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.733503:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.736122:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.738857:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.741924:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.746327:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.750575:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.752646:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.755523:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.758913:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.763295:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.765094:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.765968:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.768815:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.771671:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.774790:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.778945:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.782155:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.785644:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.787983:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.789976:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.793394:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.795585:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.799720:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.804728:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.807835:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.810920:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.813841:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.816614:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.818271:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.819773:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.822273:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.825269:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.827336:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.831968:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.836272:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.839367:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.841729:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.845453:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.848087:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.850954:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.854195:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.858571:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.863259:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.866339:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.869399:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.872021:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.874139:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.875755:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.878845:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.881371:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.884282:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.888296:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.891626:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.894791:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.897033:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.900989:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.903837:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.907486:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.911270:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.914093:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.916132:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.920626:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.922082:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.925532:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.927875:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.931677:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.935166:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.937398:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.941035:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.943764:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.946620:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.949657:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.952559:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.957128:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.960340:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.963088:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.964871:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.967857:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.970521:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.974240:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.976760:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.981101:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.983870:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.986322:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.989159:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.992899:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.996121:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103487.999903:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.001404:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.003348:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.006418:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.008320:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.010839:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.014240:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.017967:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.020482:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.025172:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.028074:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.030678:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.033630:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.035618:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.038771:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.040781:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.043140:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.046611:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.050846:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.053492:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.056393:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.058424:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.061679:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.064567:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.067760:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.070884:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.074753:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.077559:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.080839:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.084843:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.087936:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.091239:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.093878:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.098630:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.101421:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.104243:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.106583:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.109247:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.111843:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.114881:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.117985:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.121294:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.124508:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.128455:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.131833:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.135172:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.138555:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.142077:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.144300:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.146801:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.150033:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.153210:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.156402:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.158093:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.161929:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.164364:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.168106:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.170823:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.173360:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.175636:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.179300:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.181638:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.183941:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.186408:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.190711:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.194387:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.198336:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.200964:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.202860:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.207784:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.208883:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.212386:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.214645:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.218591:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.223097:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.225969:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.229688:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.233210:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.236443:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.239104:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.243204:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.246644:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.250058:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.253594:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.257099:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.262005:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.263949:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.267115:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.272036:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.276396:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.279880:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.283570:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.285718:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.288684:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.292348:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.294489:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.296687:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.299827:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.302279:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.305285:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.308737:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.313173:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.316738:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.320535:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.324739:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.327453:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.331153:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.333267:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.336876:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.340256:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.342897:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.345567:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.347358:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.350518:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.353006:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.356853:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.359064:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.360905:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.363283:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.366186:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.370452:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.372952:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.375668:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.377621:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.380035:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.384137:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.386148:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.389764:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.393575:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.396826:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.401581:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.404510:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.408072:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.409717:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.413718:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.415833:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.418245:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.420233:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.422108:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.424940:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.428626:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.431862:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.434310:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.437188:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.440943:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.444051:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.449623:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.451769:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.454923:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.457906:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.460807:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.463469:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.466324:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.469756:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.473357:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.475852:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.479230:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.482291:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.485097:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.487072:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.489961:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.493121:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.497547:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.501583:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.505701:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.509600:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.512140:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.515542:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.519029:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.522946:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.529290:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.532717:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.534249:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.537904:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.540504:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.542798:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.544681:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.548603:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.550983:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.553521:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.555047:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.557861:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.562116:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.565625:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.569080:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.572161:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.575673:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.579668:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.583539:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.585876:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.588073:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.590192:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.593077:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.596090:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.599486:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.603780:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.605661:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.609709:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.612235:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.616400:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.620090:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.623420:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.625983:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.630187:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.633290:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.635921:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.638213:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.641244:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.643708:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.646833:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.648821:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.653058:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.656983:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.660648:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.663630:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.666103:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.669607:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.674532:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.677152:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.681142:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.684240:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.687681:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.690302:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.693250:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.696491:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.699397:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.702522:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.705980:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.708991:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.710919:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.714247:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.716649:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.719212:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.722920:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.725596:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.729171:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.731519:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.734350:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.736390:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.739485:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.741721:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.743389:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.746352:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.750185:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.753617:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.757087:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.761719:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.763694:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.766133:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.769110:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.772555:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.776210:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.779331:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.783945:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.787775:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.792086:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.795480:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.800352:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.805395:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.809002:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.814123:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.816503:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.821518:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.828205:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.831822:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.835455:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.839806:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.844419:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.851847:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.855892:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.860819:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.863701:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.870126:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.876500:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.883554:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.887802:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.893075:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.899267:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.905607:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.913503:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.917673:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.922415:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.926305:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.930744:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.935832:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.940769:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.948940:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.954202:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.959307:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.965514:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.968637:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.976286:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.984274:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.989346:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103488.996530:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.003532:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.010406:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.018944:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.024588:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.030589:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.034621:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.039204:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.045147:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.049378:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.056131:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.061713:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.067903:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.074857:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.081691:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.086461:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.092123:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.098455:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.105661:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.109654:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.114563:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.118607:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.124693:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.129485:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.134479:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.139202:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.143512:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.148279:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.155271:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.159706:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.162651:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.166104:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.171479:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.179546:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.183159:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.187852:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.192288:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.196842:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.202130:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.209307:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.217234:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.224254:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.229528:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.237172:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.246525:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.253537:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.263504:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.273567:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.278766:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.287991:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.292080:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.299980:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.304351:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.308133:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.314280:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.319793:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.324063:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.329075:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.334141:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.339728:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.345940:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.351354:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.354491:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.360081:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.365770:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.372292:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.379155:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.387802:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.393432:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.399873:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.403573:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.409674:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.416004:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.422471:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.427308:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.434405:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.439792:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.444691:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.449901:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.457060:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.463547:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.469046:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.472702:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.476864:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.482146:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.492484:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.500015:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.505902:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.509235:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.514929:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.521675:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.527403:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.532213:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.537652:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.542058:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.546302:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.549379:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.556874:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.561145:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.566936:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.572988:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.578311:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.583501:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.586733:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.591816:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.595375:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.601333:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.606330:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.612882:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.618622:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.624392:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.628875:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.638778:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.644661:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.655925:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.666249:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.681568:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.697707:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.709891:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.720474:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.742093:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.757263:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.767764:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.784615:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.793646:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.811556:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.825802:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.837349:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.855691:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.870688:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.884272:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.918964:         14               page-faults:            403aa8 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103489.978588:         14               page-faults:            403aa2 fulledgehndl (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 [000] 103490.005893: syscalls:sys_enter_munmap: addr: 0x7f27d0124000, len: 0x02001000
+ graph500_refere 31887 103490.006795:         14               page-faults:            403563 make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.006820:         14               page-faults:            403563 make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.006843:         14               page-faults:            403563 make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.006865:         29               page-faults:            403563 make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.006910:         66               page-faults:            40355e make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.007011:        150               page-faults:            40355e make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.007258:        237               page-faults:            40355e make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.007649:        281               page-faults:            403563 make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.008108:        282               page-faults:            40355e make_graph_data_structure (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 [000] 103490.009394:   syscalls:sys_enter_mmap: addr: 0x00000000, len: 0x00801000, prot: 0x00000003, flags: 0x00000022, fd: 0xffffffffffffffff, off: 0x00000000
+ graph500_refere 31887 103490.009568:        271               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.010122:        257               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.010598:        214               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.011009:        201               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.011377:        190               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.011806:        182               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.012138:        176               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.012457:        168               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.012767:        164               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.013070:        161               page-faults:            4039e0 clean_pred (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.013444:        158               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.577781:        148               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.577994:        131               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.578171:        118               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.578345:        121               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.578519:        128               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.578776:        135               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.578973:        143               page-faults:      7f27dd9e32d0 __memset_sse2 (/lib/x86_64-linux-gnu/libc-2.23.so)
+ graph500_refere 31887 103490.581022:        143               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.582060:        125               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.582897:        125               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.583743:        114               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.584516:        105               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.585239:         97               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.585920:         90               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.586526:         79               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.587061:         74               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 103490.587567:         70               page-faults:            404df5 makedepthmapforbfs (/home/sahil/Downloads/graph500-graph500-3.0.0/src/graph500_reference_bfs)
+ graph500_refere 31887 [000] 103801.095053: syscalls:sys_enter_munmap: addr: 0x7f27d1924000, len: 0x00801000
+ graph500_refere 31887 [000] 103801.095890: syscalls:sys_enter_munmap: addr: 0x7f27b4125000, len: 0x0bffe000
+ graph500_refere 31887 [000] 103801.103943: syscalls:sys_enter_munmap: addr: 0x7f27c0123000, len: 0x0c001000
+ graph500_refere 31887 [000] 103801.105547: syscalls:sys_enter_munmap: addr: 0x7f27d3de7000, len: 0x00218dc8
+ graph500_refere 31887 [000] 103801.105619: syscalls:sys_enter_munmap: addr: 0x7f27d8d3a000, len: 0x00203210
+ graph500_refere 31887 [000] 103801.105639: syscalls:sys_enter_munmap: addr: 0x7f27d8b33000, len: 0x00206380
+ graph500_refere 31887 [000] 103801.105729: syscalls:sys_enter_munmap: addr: 0x7f27d805c000, len: 0x0020e110
+ graph500_refere 31887 [000] 103801.105751: syscalls:sys_enter_munmap: addr: 0x7f27d37b8000, len: 0x00206160
+ graph500_refere 31887 [000] 103801.105770: syscalls:sys_enter_munmap: addr: 0x7f27d35b3000, len: 0x002040d0
+ graph500_refere 31887 [000] 103801.105786: syscalls:sys_enter_munmap: addr: 0x7f27d2f5a000, len: 0x0021fa00
+ graph500_refere 31887 [000] 103801.105810: syscalls:sys_enter_munmap: addr: 0x7f27d2d40000, len: 0x00219460
+ graph500_refere 31887 [000] 103801.105829: syscalls:sys_enter_munmap: addr: 0x7f27d2b3d000, len: 0x002020b0
+ graph500_refere 31887 [000] 103801.105845: syscalls:sys_enter_munmap: addr: 0x7f27d8f3e000, len: 0x00204268
+ graph500_refere 31887 [000] 103801.105870: syscalls:sys_enter_munmap: addr: 0x7f27d2125000, len: 0x00802000
+ graph500_refere 31887 [000] 103801.105919: syscalls:sys_enter_munmap: addr: 0x7f27d8907000, len: 0x00203748
+ graph500_refere 31887 [000] 103801.105987: syscalls:sys_enter_munmap: addr: 0x7f27d826b000, len: 0x0028cd08
+ graph500_refere 31887 [000] 103801.106024: syscalls:sys_enter_munmap: addr: 0x7f27d954b000, len: 0x002021c0
+ graph500_refere 31887 [000] 103801.106033: syscalls:sys_enter_munmap: addr: 0x7f27d9347000, len: 0x002030e8
+ graph500_refere 31887 [000] 103801.106046: syscalls:sys_enter_munmap: addr: 0x7f27d9143000, len: 0x00203250
+ graph500_refere 31887 [000] 103801.106072: syscalls:sys_enter_munmap: addr: 0x7f27d974e000, len: 0x00204208
+ graph500_refere 31887 [000] 103801.106088: syscalls:sys_enter_munmap: addr: 0x7f27d9b56000, len: 0x002021c0
+ graph500_refere 31887 [000] 103801.106101: syscalls:sys_enter_munmap: addr: 0x7f27d9953000, len: 0x00202180
+ graph500_refere 31887 [000] 103801.106181: syscalls:sys_enter_munmap: addr: 0x7f27daf7e000, len: 0x00202200
+ graph500_refere 31887 [000] 103801.106214: syscalls:sys_enter_munmap: addr: 0x7f27da55a000, len: 0x002021d8
+ graph500_refere 31887 [000] 103801.106256: syscalls:sys_enter_munmap: addr: 0x7f27dad7b000, len: 0x002022f0
+ graph500_refere 31887 [000] 103801.106273: syscalls:sys_enter_munmap: addr: 0x7f27dab77000, len: 0x002032e8
+ graph500_refere 31887 [000] 103801.106294: syscalls:sys_enter_munmap: addr: 0x7f27db385000, len: 0x002021f8
+ graph500_refere 31887 [000] 103801.106371: syscalls:sys_enter_munmap: addr: 0x7f27da75d000, len: 0x00203368
+ graph500_refere 31887 [000] 103801.106440: syscalls:sys_enter_munmap: addr: 0x7f27da961000, len: 0x00213978
+ graph500_refere 31887 [000] 103801.106485: syscalls:sys_enter_munmap: addr: 0x7f27db181000, len: 0x002021c8
+ graph500_refere 31887 [000] 103801.106741: syscalls:sys_enter_munmap: addr: 0x7f27dbbbf000, len: 0x00202210
+ graph500_refere 31887 [000] 103801.106769: syscalls:sys_enter_munmap: addr: 0x7f27dc3ce000, len: 0x002011b0
+ graph500_refere 31887 [000] 103801.106798: syscalls:sys_enter_munmap: addr: 0x7f27dc1c8000, len: 0x00203278
+ graph500_refere 31887 [000] 103801.106824: syscalls:sys_enter_munmap: addr: 0x7f27d31a5000, len: 0x00206458
+ graph500_refere 31887 [000] 103801.106845: syscalls:sys_enter_munmap: addr: 0x7f27d2927000, len: 0x00215d28
+ graph500_refere 31887 [000] 103801.106861: syscalls:sys_enter_munmap: addr: 0x7f27d8705000, len: 0x00201170
